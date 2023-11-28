@@ -14,6 +14,9 @@ settings
 what is you name 
 maybe you 
 readme.dmd
+.txt
+/ui
+.iui
 <!---
 eingeing20222022/eingeing20222022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
